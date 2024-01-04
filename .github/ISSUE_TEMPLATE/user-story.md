@@ -11,10 +11,10 @@ As a [role]
 I need [feature]
 So that [value add]
 
-Assumptions and details:
+### Assumptions and details:
 [add details here]
 
-Acceptance Criteria:
+### Acceptance Criteria:
 
 ```gherkin
 Given [precondition1]
